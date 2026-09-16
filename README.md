@@ -26,7 +26,7 @@ Apasionado por construir sistemas escalables (POO, MVVM) e interfaces intuitivas
 ### 🚀 About me / Sobre mí
 
 - 🎓 **EN:** 3rd-year Computer Science student. / **ES:** Estudiante de 3er año de Ciencias de la Computación.
-- ⚙️ **EN:** I enjoy designing SQL persistence logic as much as tweaking Dark Mode contrasts in the frontend. / **ES:** Me divierte tanto diseñar la lógica de persistencia en SQL como ajustar los contrastes del Dark Mode en el frontend.
+- ⚙️ **EN:** I enjoy designing SQL persistence logic as much as improving the user experience in the frontend. / **ES:** Me divierte tanto diseñar la lógica de persistencia en SQL como mejorar la experiencia de usuario en el frontend.
 
 ### 📫 Contact / Contacto
 
