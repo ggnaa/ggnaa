@@ -1,9 +1,9 @@
 # Hi there, I'm Genaro 👋 / ¡Hola, soy Genaro!
 
-🌎 **EN:** Computer Science Student | Backend & Full-Stack Developer.
+🌎 **EN:** Computer Science Student | Frontend & Full-Stack Developer.
 Passionate about building scalable systems (OOP, MVVM) and intuitive interfaces. Currently looking for my first professional opportunity in the IT industry to keep growing and adding value.
 
-🧉 **ES:** Estudiante de Ciencias de la Computación | Desarrollador Backend & Full-Stack.
+🧉 **ES:** Estudiante de Ciencias de la Computación | Desarrollador Frontend & Full-Stack.
 Apasionado por construir sistemas escalables (POO, MVVM) e interfaces intuitivas. Actualmente busco mi primera oportunidad profesional en la industria IT para seguir creciendo y aportando valor.
 
 ### 💻 Tech Stack / Tecnologías
